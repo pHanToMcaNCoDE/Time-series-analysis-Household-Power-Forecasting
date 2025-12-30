@@ -54,9 +54,8 @@ Time series analysis and forecasting of household electricity consumption patter
 
 ## 📁 Repository Structure
 ```
-├── code/                    # R analysis scripts
-├── data/                    # Dataset
-├── report/                  # Technical report (PDF)
+├── household_time_series.r        # R analysis scripts
+├── time-series-report.pdf         # Technical report (PDF)
 ├── visualizations/          # Generated plots
 └── README.md
 ```
